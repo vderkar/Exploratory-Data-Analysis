@@ -1,2 +1,2 @@
-# i.Neuron_py_projects
-This is my pratice and exploring Seasborn library file.
+# Exploring Libraries
+This is my pratice and exploring library file.
